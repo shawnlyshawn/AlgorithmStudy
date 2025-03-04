@@ -17,9 +17,9 @@ print(ans)
 # length = len(N)
 # n = int(N)
 # lst = []
-#
+
 # # lst: 분해합의 각 자리별 숫자
-# for i in range(length-1, 0, -1):
+# for i in range(length-1, 0, -1):c5gb6hyfrv tdex4 
 #     de = 10 ** i
 #     quo = n // de
 #     lst.append(quo)
@@ -27,5 +27,5 @@ print(ans)
 #     if (i == 1):
 #         lst.append(n)
 # # len(N) >= i > -1
-#
+
 # print(f"list: {lst}")
